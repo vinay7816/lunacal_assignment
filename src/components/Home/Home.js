@@ -3,7 +3,7 @@ import Gallery from '../gallery/gallery';
 const Home = () => {
   return (
     <section className="text-gray-600 body-font overflow-hidden">
-      <div className="px-5 py-16 mx-auto">
+      <div className="px-5 py-10 mx-auto">
         <div className="flex flex-wrap -m-4">
           {/* First Column */}
           <div className="p-4 md:w-1/2 w-full">
